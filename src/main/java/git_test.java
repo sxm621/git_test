@@ -7,5 +7,6 @@ public class git_test {
         System.out.println("Hello Git 5");
         System.out.println("Hello hit fix 5");
         System.out.println("Hello master 6");
+        System.out.println("Github push test 7");
     }
 }
